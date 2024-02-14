@@ -52,3 +52,4 @@ override.tf.json
 terraform.rc
 cohorts/2024/01-docker-terraform/terraform/terraform_basic/darwin_arm64/terraform-provider-google_v4.51.0_x5
 .vscode/launch.json
+cohorts/2024/02-workflow-orchestration/homework2_project/datatalk-de-mage-zoomcamp.json
