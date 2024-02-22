@@ -60,7 +60,7 @@ Run the dbt model without limits (is_test_run: false).
 - 42998722
 
 **A**:
-43244696
+- 22998722
 
 ### Question 4: 
 
@@ -72,6 +72,12 @@ Create a dashboard with some tiles that you find interesting to explore the data
 - Green
 - Yellow
 - FHV and Green
+
+**A**
+- Green
+Green: 397,615
+Yellow: 3,243,734
+FHV: 290,680
 
 
 ## Submitting the solutions
