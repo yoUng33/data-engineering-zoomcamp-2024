@@ -15,6 +15,9 @@ For this homework we will be using the FHV 2019-10 data found here. [FHV Data](h
 
 What's the output?
 
+**A**
+3.3.2
+
 > [!NOTE]
 > To install PySpark follow this [guide](https://github.com/DataTalksClub/data-engineering-zoomcamp/blob/main/05-batch/setup/pyspark.md)
 
@@ -33,7 +36,8 @@ What is the average size of the Parquet (ending with .parquet extension) Files t
 - 25MB
 - 87MB
 
-
+**A:**
+- 6M
 
 ### Question 3: 
 
@@ -46,6 +50,9 @@ Consider only trips that started on the 15th of October.
 - 108,164
 - 12,856
 - 452,470
+- 62,610
+
+**A**
 - 62,610
 
 > [!IMPORTANT]
@@ -62,7 +69,8 @@ What is the length of the longest trip in the dataset in hours?
 - 7.68 Hours
 - 3.32 Hours
 
-
+**A:**
+- 631,152.50 Hours
 
 ### Question 5: 
 
@@ -75,6 +83,8 @@ Spark’s User Interface which shows the application's dashboard runs on which l
 - 4040
 - 8080
 
+**A:**
+- 4040
 
 
 ### Question 6: 
@@ -91,6 +101,8 @@ Using the zone lookup data and the FHV October 2019 data, what is the name of th
 - Union Sq
 - Crown Heights North
 
+**A:**
+- Jamaica Bay
 
 ## Submitting the solutions
 
